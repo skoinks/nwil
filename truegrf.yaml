@@ -1,4 +1,7 @@
 description: A new TrueGRF project based on FIRS Steeltown
+grfid: f11410d1
 license: GPL-2.0
+name: nwil
 type: industry
+url: https://github.com/skoinks/nwil
 version: 6
